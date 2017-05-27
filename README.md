@@ -1,2 +1,2 @@
-# lifx-her
-LiFX API implemented using Her
+# lifx-faraday
+LiFX API implemented using Faraday
