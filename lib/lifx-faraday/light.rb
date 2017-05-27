@@ -16,4 +16,3 @@ module LifxFaraday
     attr_reader :selector
   end
 end
-
